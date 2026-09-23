@@ -7,5 +7,8 @@ public class Main {
 
         NotificationService smsService = new SmsNotificationService();
         smsService.notifyUser("Transaction Completed!");
+
+        NotificationService telegramService = new TelegramNotificationService();
+        telegramService.notifyUser("Transaction Completed!");
     }
 }
