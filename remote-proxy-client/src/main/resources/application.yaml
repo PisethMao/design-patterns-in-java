@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: remote-proxy-client
+  security:
+    user:
+      name: user
+      password: password
+server:
+  port: 8080
+remote:
+  user-service:
+    base-url: http://localhost:8081
+    username: user
+    password: password

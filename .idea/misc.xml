@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/remote-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/remote-proxy-client/pom.xml" />
       </list>
     </option>
   </component>
@@ -12,6 +14,8 @@
     <option name="disabledModuleNames">
       <set>
         <option value="design-patterns-in-java" />
+        <option value="remote-proxy-client" />
+        <option value="remote-user-service" />
       </set>
     </option>
   </component>
