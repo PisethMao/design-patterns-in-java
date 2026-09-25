@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/remote-user-service/pom.xml" />
         <option value="$PROJECT_DIR$/remote-proxy-client/pom.xml" />
+        <option value="$PROJECT_DIR$/mediator-pattern/mediator-pattern/pom.xml" />
       </list>
     </option>
   </component>
@@ -14,6 +15,7 @@
     <option name="disabledModuleNames">
       <set>
         <option value="design-patterns-in-java" />
+        <option value="mediator-pattern" />
         <option value="remote-proxy-client" />
         <option value="remote-user-service" />
       </set>

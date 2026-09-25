@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: mediator-pattern
+server:
+  port: 8080
