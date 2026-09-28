@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/mediator-pattern/mediator-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/mediator-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/observer-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/state-pattern/pom.xml" />
       </list>
     </option>
   </component>
@@ -21,6 +22,7 @@
         <option value="observer-pattern" />
         <option value="remote-proxy-client" />
         <option value="remote-user-service" />
+        <option value="state-pattern" />
       </set>
     </option>
   </component>
