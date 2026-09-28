@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/remote-proxy-client/pom.xml" />
         <option value="$PROJECT_DIR$/mediator-pattern/mediator-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/mediator-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/observer-pattern/pom.xml" />
       </list>
     </option>
   </component>
@@ -17,6 +18,7 @@
       <set>
         <option value="design-patterns-in-java" />
         <option value="mediator-pattern" />
+        <option value="observer-pattern" />
         <option value="remote-proxy-client" />
         <option value="remote-user-service" />
       </set>
