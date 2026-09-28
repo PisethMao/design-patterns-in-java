@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/remote-user-service/pom.xml" />
         <option value="$PROJECT_DIR$/remote-proxy-client/pom.xml" />
         <option value="$PROJECT_DIR$/mediator-pattern/mediator-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/mediator-pattern/pom.xml" />
       </list>
     </option>
   </component>
